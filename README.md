@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavan Kalyan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
+![](https://komarev.com/ghpvc/?username=PKalyanReddy&abbreviated=true)
 - 📫 How to reach me **pavankalyanreddy1012@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
