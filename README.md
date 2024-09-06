@@ -7,7 +7,10 @@
 - 👯 I’m looking to collaborate on: Open-source projects  
 - 📫 How to reach me **pavankalyanreddy1012@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## Portfolio
+Check out my portfolio: [https://pkalyanreddy.github.io/](https://pkalyanreddy.github.io/)
+
+## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pavan-kalyan-reddy-444063258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pavan-kalyan-reddy-444063258/" height="30" width="40" /></a>
 </p>
