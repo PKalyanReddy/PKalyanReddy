@@ -3,6 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=PKalyanReddy)
 
+<br>💡 Full Stack Web Developer with expertise in MERN stack, adept at using JavaScript, MongoDB, Java and React. Excels in problem-solving, communication, and rapid adoption of new technologies, including Generative AI.<br><br>📚 I'm a lifelong learner, continuously expanding my knowledge through online courses. Whether it's mastering the latest programming languages or diving into cutting-edge development frameworks, I'm always eager to embrace new challenges.<br><br>
 - 🌱 I’m currently learning: Advanced Node.js, MongoDB, and System Design  
 - 👯 I’m looking to collaborate on: Open-source projects  
 - 📫 How to reach me **pavankalyanreddy1012@gmail.com**
